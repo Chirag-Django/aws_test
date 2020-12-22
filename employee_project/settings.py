@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'EmployeeDB2',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': 'localhost'
+        'USER': 'employee',
+        'PASSWORD': 'chirag123',
+        'HOST': 'database-2.cc8e8nokl8ge.ap-south-1.rds.amazonaws.com'
     }
 }
 
